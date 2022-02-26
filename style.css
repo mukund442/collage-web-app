@@ -1,0 +1,25 @@
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#redcolor1{
+    color:red;
+}
+
+#startbutton{
+    border-radius: 10px;
+}
+
+#redcolor2{
+    color:red;
+}
+
+.copy_right_footer{
+    position:fixed;
+    bottom:0;
+    width:100%;
+    text-align: center;
+}
+
+img:hover{
+    border-radius: 120px;
+}
